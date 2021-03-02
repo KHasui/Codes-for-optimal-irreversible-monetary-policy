@@ -20,5 +20,5 @@ To run program codes, you must have CompEcon Toolbox (qnwnorm.m / discrand.m) fo
 **Data:**
 *	Data_figure1.xlsx
 
-Note: Please use these codes your own responsibility. I would not be responsible for any damage or error that might occur by using these codes. 
+**Note:** Please use these codes your own responsibility. I would not be responsible for any damage or error that might occur by using these codes. 
 Copyright (c) 2021 Kohei Hasui.
