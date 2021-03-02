@@ -2,8 +2,8 @@
 Codes for “Optimal irreversible monetary policy,” by K. Hasui, T. Kobayashi, and T. Sugo, European Economic Review. (This version: Feb 2021)
 
 Main files:
-* | plot_figures2and3.m
-* | lot_figure4.m
+* plot_figures2and3.m
+* lot_figure4.m
 lot_figures5and6.m
 •	plot_figure7.m
 •	plot_figures8and9.m
